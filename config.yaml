@@ -1,0 +1,14 @@
+name: myenv
+channels:
+  - defaults
+dependencies:
+  - nltk
+  - transformers
+  - streamlit
+  - gdown
+  - python=3.8  # You can specify the Python version here
+  - pip
+  - pip:
+      - nltk
+      - transformers
+      - streamlit
