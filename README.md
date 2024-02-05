@@ -1,1 +1,13 @@
-# AgriLLM: Harnessing Large Language Models for Farmer Queries
+# AgriLLM Demo
+
+## Get Started
+```
+$ git clone 
+$ cd 
+```
+## Dependencies 
+
+## Train & Eval
+```
+$ python 
+```
