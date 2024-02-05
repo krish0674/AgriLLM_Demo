@@ -8,7 +8,8 @@ $ conda env create -f config.yaml
 ```
 ## Run the Demo
 ```
-$ python agriapp.py
+$ conda activate myenv
+$ streamlit run agriapp.py
 ```
 <br>
 (NOTE: Scripts for pre-processing, training, and evaluation, along with model checkpoints, will be made public and released at a later stage.)
